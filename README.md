@@ -1,1 +1,1 @@
-https://vscode.dev/?vscode-lang=pt-br
+file:///C:/Users/RenanNunesUguccioniD/Desktop/aluraflix/index.html
